@@ -1,3 +1,7 @@
+# My-Journals
+
+My Journals is a website that provides various journals according to the nine streams available in Udayana Informatics.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
